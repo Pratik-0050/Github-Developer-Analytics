@@ -11,6 +11,7 @@ A web application that analyzes GitHub profiles, repositories, commits, pull req
 * Programming language distribution
 * Interactive charts and statistics
 * Responsive dark-themed dashboard
+* One-click startup using `run.bat` on Windows
 
 ## 🛠️ Tech Stack
 
@@ -57,12 +58,11 @@ Configure `frontend/.env.local` with:
 NEXT_PUBLIC_API_URL=http://localhost:8000
 ```
 
+**4. Quick Start with `run.bat` (Windows)**
+
+Double-click `run.bat` in the project root folder to automatically start both the frontend and backend. Ensure Python, Node.js, npm, and the required environment variables are configured.
+
 Open **http://localhost:3000** in your browser.
-
-
-* **4.One-Click Startup:**
-* Launch the frontend and backend automatically by double-clicking `run.bat` inside your Windows Folder.
-
 
 ## 👨‍💻 Author
 
