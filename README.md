@@ -59,6 +59,11 @@ NEXT_PUBLIC_API_URL=http://localhost:8000
 
 Open **http://localhost:3000** in your browser.
 
+
+* **4.One-Click Startup:**
+* Launch the frontend and backend automatically by double-clicking `run.bat` inside your Windows Folder.
+
+
 ## 👨‍💻 Author
 
 **Pratik Wankar**
