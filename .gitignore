@@ -1,0 +1,21 @@
+# Local databases (root-level sqlite fallback, etc.)
+*.db
+*.sqlite
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Testing & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS / IDE / logs
+.DS_Store
+.vscode/
+.idea/
+*.log
